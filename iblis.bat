@@ -1,0 +1,2 @@
+REM "C:\Python38\python.exe" "C:\Users\jeffr\OneDrive\Documents\Python Scripts\ideal-battery-life-indicator-script\indicator.py"
+python "C:\Users\jeffr\OneDrive\Documents\Python Scripts\ideal-battery-life-indicator-script\indicator.py"
