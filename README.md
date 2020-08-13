@@ -17,8 +17,15 @@ pip install -r requirements.txt
 
 ## Usage
 
-Open your command line interface and run
+To test out the script, open your command line interface and run
 
 ```bash
-python indicator.py
+pythonw indicator.pyw
 ```
+
+To run it as a background process at startup,
+
+1. Create a shortcut to the batch file.
+2. Once the shortcut is created, right-click the shortcut file and select Cut.
+3. Open the Run command window using <kbd>Ctrl</kbd>+<kbd>R</kbd>, and type ```shell:startup``` to open the Startup folder.
+4. Once the Startup folder is opened, click the Home tab at the top of the folder and select Paste to paste the shortcut file into the Startup folder.
